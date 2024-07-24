@@ -23,6 +23,7 @@
 ![MongoDB](https://img.shields.io/badge/mongodb-%234EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge)
+![C with Firebase](https://img.shields.io/badge/C%20with-Firebase-orange?style=for-the-badge&logo=c&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ranganivandan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
