@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" alt="Namaste, World!" style="width: 500px; max-width: 100%; display: inline-block;"/>
 </p>
 
-<h1 align="center">I'm vandan a frontend developer and learner🚀</h1>
+<h1 align="center">I'm vandan a FULLSTACK MERN developer and learner🚀</h1>
 
 <h2>💫 About Me:</h2>
 
