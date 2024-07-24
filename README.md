@@ -6,7 +6,7 @@
 
 <h2>💫 About Me:</h2>
 
-- 🌱 I’m currently learning nodejs
+- 🌱 I’m currently learning  Advanced MERN stack development 
   
 - 🎓 Currently a B.Tech candidate at GCET V.V.Nagar.
   
