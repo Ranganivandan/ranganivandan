@@ -24,7 +24,6 @@
 ![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge)
 ![C ](https://img.shields.io/badge/language-C-blue?style=for-the-badge&logo=c&logoColor=white)
-
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 # 📊 GitHub Stats:
