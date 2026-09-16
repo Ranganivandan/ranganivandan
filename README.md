@@ -4,7 +4,7 @@
 
 <a href="https://linkedin.com/in/vandanrangani"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/ranganivandan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://vandandev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00C9A7?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://vandan.zeat.in"><img src="https://img.shields.io/badge/Portfolio-00C9A7?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="mailto:vandanrangani21@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://x.com/RanganiVandan"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 
@@ -164,18 +164,6 @@ const vandan = {
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ranganivandan/ranganivandan/output/github-contribution-grid-snake-dark.svg" alt="snake contribution graph"/>
-
-<sub>Animated snake eating my contribution graph — auto-generated daily. Setup: <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action (workflow file included below).</sub>
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
 ## 🎓 Education & Certifications
 
 <table>
@@ -233,7 +221,7 @@ const vandan = {
 
 <a href="https://linkedin.com/in/vandanrangani"><img src="https://img.shields.io/badge/-Connect_on_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:vandanrangani21@gmail.com"><img src="https://img.shields.io/badge/-Say_Hi_via_Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://vandandev.vercel.app/"><img src="https://img.shields.io/badge/-Visit_Portfolio-00C9A7?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="https://vandan.zeat.in"><img src="https://img.shields.io/badge/-Visit_Portfolio-00C9A7?style=flat-square&logo=vercel&logoColor=white"/></a>
 <a href="https://x.com/RanganiVandan"><img src="https://img.shields.io/badge/-Follow_on_X-000000?style=flat-square&logo=x&logoColor=white"/></a>
 
 <br/><br/>
@@ -252,7 +240,6 @@ const vandan = {
 <br/>
 
 - **Repo name**: this file must live in a repo named exactly `ranganivandan` (a repo matching your username) for GitHub to show it on your profile.
-- **Snake graph**: add `snake.yml` (provided alongside this file) to `.github/workflows/` in that repo, then push once — it regenerates the animated snake daily from your real contribution graph.
 - **Project pin cards**: swap `NetResolve` / `Searchify` in the Featured Projects section for your actual repo names if different.
 - **Activity feed**: the commented `START_SECTION:activity` block auto-fills if you enable the [`github-activity-readme`](https://github.com/jamesgeorge007/github-activity-readme) Action.
 - **Profile view counter**: powered by komarev.com, no setup needed — updates automatically.
