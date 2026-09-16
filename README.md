@@ -1,42 +1,205 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" alt="Namaste, World!" style="width: 500px; max-width: 100%; display: inline-block;"/>
-</p>
+<div align="center">
 
-<h1 align="center">I'm Vandan, a passionate FULLSTACK MERN developer and learner🚀</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9a7&height=220&section=header&text=Vandan%20Rangani&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20AI%20Automation%20%7C%20DevOps&descAlignY=58&descSize=18"/>
 
-<h2>💫 About Me:</h2>
+<a href="https://linkedin.com/in/vandanrangani"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/ranganivandan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://vandan.zeat.in"><img src="https://img.shields.io/badge/Portfolio-00C9A7?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="mailto:vandanrangani21@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-- 🌱 I’m currently learning  Advanced MERN stack development 
-  
-- 🎓 Currently a B.Tech candidate at GCET V.V.Nagar.
-  
-- 📫 How to reach me: vandanrangani21@gmail.com
+<br/>
 
-## 💻 Tech Stack:
-![C ](https://img.shields.io/badge/language-C-blue?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%23F7DF1E.svg?style=for-the-badge&logo=tailwindcss)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23F7DF1E.svg?style=for-the-badge&logo=typescript)
-![GSAP](https://img.shields.io/badge/gsap-%2388CE02.svg?style=for-the-badge&logo=greensock&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/mongodb-%234EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/mongoose-%23880000.svg?style=for-the-badge&logo=mongoose&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge)
-![Socket.io](https://img.shields.io/badge/socket.io-%23010101.svg?style=for-the-badge&logo=socket.io&logoColor=white)
-![EJS](https://img.shields.io/badge/ejs-%2300BC3F.svg?style=for-the-badge&logo=ejs&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&multiline=true&width=800&height=90&lines=Building+scalable+apps+with+99.99%25+uptime;Shipping+AI+agents+that+automate+real+workflows;Hackathon+Winner+%7C+Open-Source+Contributor+%7C+Freelancer;Currently%3A+B.Tech+IT+%40+GCET+(SGPA+8.95%2F10)" alt="Typing SVG" />
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ranganivandan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ranganivandan&theme=dark&hide_border=false)<br/>
-  
-[![](https://visitcount.itsvg.in/api?id=ranganivandan&label=Profile%20Views&color=0&icon=4&pretty=true)](https://github-visitor-counter-pro.vercel.app)
-  
 </div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 🧭 About Me
+
+```javascript
+const vandan = {
+  location: "Jamnagar, Gujarat, India 🇮🇳",
+  role: "Full Stack Developer & AI Automation Engineer",
+  education: "B.Tech IT @ G H Patel College of Engineering & Technology ('23–'27) | SGPA: 8.95/10.0",
+  currentlyBuilding: ["AI agents with n8n", "RAG pipelines", "scalable MERN systems"],
+  funFact: "I once made a page render in <2ms and still wasn't satisfied 😅",
+  askMeAbout: ["System Design", "DevOps", "GenAI Automation", "Open Source"],
+};
+```
+
+- 🔭 Open-source contributor at **InsForge (YC-backed)** — backend, security & infra
+- ⚡ Building autonomous AI agents that automate Gmail, Docs, Sheets & web search end-to-end
+- 🏆 Hackathon finisher across **CVMU, SVNIT, IIT Gandhinagar** — 2,000+ team fields
+- 🌍 Freelancing luxury e-commerce builds with **#1 local SEO** and 87% faster render times
+- 📫 Reach me: **vandanrangani21@gmail.com**
+
+<br/>
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+**Frontend**
+<br/>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**Backend & Data**
+<br/>
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**DevOps & Infra**
+<br/>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-269539?style=for-the-badge&logo=nginx&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Languages & Concepts**
+<br/>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![System Design](https://img.shields.io/badge/System_Design-6E56CF?style=for-the-badge)
+![GenAI](https://img.shields.io/badge/GenAI_/_AI_Automation-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 💼 Experience Timeline
+
+```text
+2026 ─┬─ May   → Open Source Contributor, InsForge (YC-backed) — backend/security/infra
+      ├─ Apr   → Full Stack & AI Engineer Intern, Infinite Craze Games
+      └─ Nov'25→ Freelance Web Developer, Self-Employed
+2024 ─── Apr–Jun → Open Source Contributor, Powered by Reskill — geo-fencing blood bank discovery
+```
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧩 InsForge <sub>(YC Backed)</sub>
+*Open Source Contributor — Backend, Security & Infra*
+- Engineered CSRF token validation across auth routes
+- Prevented critical data loss in bulk inserts via SQL key unions
+- Fixed Windows build failures & hardened Docker mounts
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 Infinite Craze Games
+*Full Stack & AI Engineer Intern*
+- Built an autonomous AI agent (n8n) automating Gmail, Docs, Sheets & web search
+- Shipped a scalable RAG pipeline for internal SRS docs
+- Built an attendance module for the company's HRMS
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💎 Freelance — Luxury Jewelry eCommerce
+- <2ms render time (87% faster)
+- 50% boost in user engagement
+- #1 local SEO ranking with real-time currency conversion
+
+</td>
+<td width="50%" valign="top">
+
+### 🩸 Powered by Reskill
+*Open Source Contributor — Backend*
+- Built geo-fencing blood bank discovery feature
+- 1,000+ lines shipped, cutting bugs by 40%
+
+</td>
+</tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/ranganivandan">
+<img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=ranganivandan&repo=NetResolve&theme=dark&hide_border=true&bg_color=0d1117&title_color=00C9A7"/>
+</a>
+<a href="https://github.com/ranganivandan">
+<img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=ranganivandan&repo=Searchify&theme=dark&hide_border=true&bg_color=0d1117&title_color=00C9A7"/>
+</a>
+
+</div>
+
+| Project | Stack | Highlights |
+|---|---|---|
+| 🌐 **NetResolve** — DNS & Hosting Infra | MERN, Nginx, Cloudflare, GCP | Custom recursive DNS resolver • TTL caching • 99.99% uptime via automated recovery |
+| 🔍 **Searchify** — Custom Search Engine | MERN, Redis, Docker | Inverted indexing & relevance ranking • sub-0.5s responses at 10k+ QPS • async crawler pipeline |
+| 📊 **AI Social Media Analytics Dashboard** | MERN, Python, AI/ML, Redis | AI Telegram bot scheduling 5k+ posts/day • 50k+ asset content library • 43k+ daily automated emails |
+
+> ⚠️ *Replace `NetResolve` / `Searchify` above with your actual repo names if they differ — the pin cards pull live data straight from GitHub.*
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 🏆 Achievements
+
+- 🥉 **2nd Runner-Up** — CVMU Hackathon (700 finalist teams) — Social Media Analytics Dashboard
+- 🎯 **Top 50 Finalist** — SVNIT Hackathon 2025 (1,200+ teams) — ResQTrack Platform
+- 🎯 **Top 50 Finalist** — IIT Gandhinagar Hackathon (2,000+ teams)
+- 🌟 Selected for **SSOC'25** & **GSSOC'25** Open Source Programs (7,000+ applicants)
+- 🚀 Open Source Contributor — **Aden's Hive** (Y Combinator Backed)
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ranganivandan&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00C9A7&icon_color=00C9A7&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranganivandan&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00C9A7"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ranganivandan&theme=radical&hide_border=true&background=0d1117&ring=00C9A7&fire=00C9A7"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ranganivandan&theme=react-dark&hide_border=true&bg_color=0d1117&color=00C9A7&line=00C9A7&point=ffffff"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=ranganivandan&theme=radical&no-frame=true&row=1&column=7"/>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<!--START_SECTION:activity-->
+<!-- This section fills automatically if you enable https://github.com/jamesgeorge007/github-activity-readme -->
+<!--END_SECTION:activity-->
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/vandanrangani"><img src="https://img.shields.io/badge/-Connect_on_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:vandanrangani21@gmail.com"><img src="https://img.shields.io/badge/-Say_Hi_via_Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://vandan.zeat.in"><img src="https://img.shields.io/badge/-Visit_Portfolio-00C9A7?style=flat-square&logo=vercel&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=ranganivandan&label=Profile%20Views&color=00c9a7&style=flat" alt="profile views"/>
+
+<br/>
+
+*"Turning ideas into scalable, production-ready systems — one commit at a time."*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9a7,50:2c5364,100:0f2027&height=120&section=footer"/>
