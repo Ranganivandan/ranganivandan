@@ -4,12 +4,13 @@
 
 <a href="https://linkedin.com/in/vandanrangani"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/ranganivandan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://vandan.zeat.in"><img src="https://img.shields.io/badge/Portfolio-00C9A7?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://vandandev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00C9A7?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="mailto:vandanrangani21@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://x.com/RanganiVandan"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&multiline=true&width=800&height=90&lines=Building+scalable+apps+with+99.99%25+uptime;Shipping+AI+agents+that+automate+real+workflows;Hackathon+Winner+%7C+Open-Source+Contributor+%7C+Freelancer;Currently%3A+B.Tech+IT+%40+GCET+(SGPA+8.95%2F10)" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&multiline=true&width=900&height=150&lines=Building+scalable+apps+with+99.99%25+uptime;Shipping+AI+agents+that+automate+real+workflows;Hackathon+Winner+%7C+Open-Source+Contributor+%7C+Freelancer;Currently%3A+B.Tech+IT+%40+GCET+(SGPA+8.95%2F10)" alt="Typing SVG" />
 
 </div>
 
@@ -163,18 +164,60 @@ const vandan = {
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 📊 GitHub Analytics
+## 🐍 Contribution Graph
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ranganivandan&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00C9A7&icon_color=00C9A7&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranganivandan&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00C9A7"/>
+<img src="https://raw.githubusercontent.com/ranganivandan/ranganivandan/output/github-contribution-grid-snake-dark.svg" alt="snake contribution graph"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ranganivandan&theme=radical&hide_border=true&background=0d1117&ring=00C9A7&fire=00C9A7"/>
+<sub>Animated snake eating my contribution graph — auto-generated daily. Setup: <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action (workflow file included below).</sub>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ranganivandan&theme=react-dark&hide_border=true&bg_color=0d1117&color=00C9A7&line=00C9A7&point=ffffff"/>
+</div>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ranganivandan&theme=radical&no-frame=true&row=1&column=7"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 🎓 Education & Certifications
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+**G H Patel College of Engineering & Technology**
+<br/>Bachelor of Technology, Information Technology
+<br/>📍 Anand, Gujarat · 2023 – 2027
+<br/>📈 SGPA: **8.95 / 10.0**
+
+</td>
+<td width="40%" valign="top">
+
+**Certificates**
+- Build Website With WordPress — *Coursera*
+
+</td>
+</tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 🧠 Currently Exploring
+
+<div align="center">
+
+![Advanced System Design](https://img.shields.io/badge/-Advanced%20System%20Design-1f2937?style=flat-square)
+![Multi-Agent AI Systems](https://img.shields.io/badge/-Multi--Agent%20AI%20Systems-1f2937?style=flat-square)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-1f2937?style=flat-square&logo=kubernetes)
+![Vector Databases](https://img.shields.io/badge/-Vector%20Databases-1f2937?style=flat-square)
+![Rust](https://img.shields.io/badge/-Rust%20Basics-1f2937?style=flat-square&logo=rust)
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 💬 Dev Quote
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
 
@@ -190,7 +233,8 @@ const vandan = {
 
 <a href="https://linkedin.com/in/vandanrangani"><img src="https://img.shields.io/badge/-Connect_on_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:vandanrangani21@gmail.com"><img src="https://img.shields.io/badge/-Say_Hi_via_Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://vandan.zeat.in"><img src="https://img.shields.io/badge/-Visit_Portfolio-00C9A7?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="https://vandandev.vercel.app/"><img src="https://img.shields.io/badge/-Visit_Portfolio-00C9A7?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="https://x.com/RanganiVandan"><img src="https://img.shields.io/badge/-Follow_on_X-000000?style=flat-square&logo=x&logoColor=white"/></a>
 
 <br/><br/>
 
@@ -201,5 +245,18 @@ const vandan = {
 *"Turning ideas into scalable, production-ready systems — one commit at a time."*
 
 </div>
+
+<details>
+<summary>⚙️ One-time setup (click to expand)</summary>
+
+<br/>
+
+- **Repo name**: this file must live in a repo named exactly `ranganivandan` (a repo matching your username) for GitHub to show it on your profile.
+- **Snake graph**: add `snake.yml` (provided alongside this file) to `.github/workflows/` in that repo, then push once — it regenerates the animated snake daily from your real contribution graph.
+- **Project pin cards**: swap `NetResolve` / `Searchify` in the Featured Projects section for your actual repo names if different.
+- **Activity feed**: the commented `START_SECTION:activity` block auto-fills if you enable the [`github-activity-readme`](https://github.com/jamesgeorge007/github-activity-readme) Action.
+- **Profile view counter**: powered by komarev.com, no setup needed — updates automatically.
+
+</details>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9a7,50:2c5364,100:0f2027&height=120&section=footer"/>
